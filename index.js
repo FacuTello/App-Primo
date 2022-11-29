@@ -3,7 +3,6 @@ const btnCalcular = document.querySelector('.calcular');
 const btnLimpiar = document.querySelector('.limpiar');
 const p = document.querySelector('.resultado');
 
-
 function esPrimo (){
  numero = input.value;
  let acu = 0;
